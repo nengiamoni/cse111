@@ -41,5 +41,5 @@ def word_frequency_counter(file_path):
     display_results(word_counts)
 
 if __name__ == "__main__":
-    file_path = 'c:/Users/admin/Desktop/CSE111/proposal/word_frequency_counter.py'
+    file_path = 'c:/Users/admin/Desktop/CSE111/proposal/proposal.txt'
     word_frequency_counter(file_path)
